@@ -1,0 +1,3 @@
+[submodule "bundle/webBrowser"]
+	path = bundle/webBrowser
+	url = https://github.com/sangwook/webBrowser.vim.git
